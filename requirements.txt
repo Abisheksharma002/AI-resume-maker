@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+python-docx
+reportlab
+python-dotenv
